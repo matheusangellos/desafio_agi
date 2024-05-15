@@ -1,0 +1,19 @@
+{
+  "name": "desafio_agi",
+  "version": "1.0.0",
+  "description": "Desafio Agi",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "v20.10.0"
+  },
+  "scripts": {
+    "cypress:web": "npx cypress open",
+    "cypress:headless": "npx cypress run --browser chrome"
+  },
+  "author": "Matheus Angellos",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}

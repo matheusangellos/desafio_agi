@@ -1,4 +1,6 @@
-# desafio_agi
+![Cypress Tests](https://github.com/matheusangellos/desafio_agi/actions/workflows/cypress-tests.yml/badge.svg)
+
+# Desafio Agi - Matheus Angellos
 Repositório referente ao desafio proposto pelo Agi.
 
 ## Pré-requisitos
